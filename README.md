@@ -1,0 +1,2 @@
+# vagrant_plenv
+vagrantのplenvインストール済み環境構築用
